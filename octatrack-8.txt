@@ -1,4 +1,4 @@
-NAME:Octatrack
+NAME:OT-8
 OUT:A
 CHANNEL:8
 7:TRK LVL
